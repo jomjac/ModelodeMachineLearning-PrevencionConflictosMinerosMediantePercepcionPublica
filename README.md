@@ -10,6 +10,7 @@
 
 1. Problematicas
   - cambio climatico imagenes satelitales, cuanto ha sido la variacion de los glaciares.
-  -  
+  - Intepretar expedientes medicos, extraer datos relevantes (fechas, enfermedades).
+  - Optimizar la mejora en la evaluación de expedientes y reducir costos operativos.
 
 3. 
