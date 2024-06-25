@@ -4,4 +4,4 @@
 
 > Ejemplo
 
-<span style:"color:red"> ejemplo2 </span>
+<span style="color:red"> ejemplo2 </span>
