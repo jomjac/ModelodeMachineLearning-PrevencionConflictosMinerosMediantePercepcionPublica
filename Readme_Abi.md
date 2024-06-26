@@ -1,2 +1,2 @@
 Hola!
-<font color="green"> Bienvenido a freeCodeCamp. </font> 
+<span style="color:blue">some *blue* text</span>
