@@ -23,3 +23,13 @@ de la sesión 01).
 # i. Introducción al proyecto.
 
 <span style="color:red"> ASDAS </span>
+
+<span style="color:blue"> blue </span> 
+
+# ii. Presentación del equipo
+
+# iii. Objetivo del proyecto
+
+# iv. Estructura de las carpetas
+
+# v. Enlaces a los archivos Markdown con el desarrollo de la Parte 01.
