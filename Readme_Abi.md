@@ -1,2 +1,2 @@
 Hola!
-${\color{red}Red}$
+${\color{red}a todos!}$
