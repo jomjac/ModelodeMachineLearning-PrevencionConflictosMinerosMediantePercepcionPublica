@@ -1,2 +1,2 @@
 Hola!
-#<font color="green"> Bienvenido a freeCodeCamp. </font> 
+<font color="green"> Bienvenido a freeCodeCamp. </font> 
