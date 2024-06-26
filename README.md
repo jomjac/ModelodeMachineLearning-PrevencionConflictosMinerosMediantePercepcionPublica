@@ -15,15 +15,25 @@
 
 
 # i. Introducción al proyecto.
-
+Contar una historio o un suceso de una minera
 <span style="color:red"> ASDAS </span>
 
 <span style="color:blue"> blue </span> 
 
 # ii. Presentación del equipo
+El equipo que llevó a cabo este proyecto se encuentra conformado por:
+* Huisacayna Cutipa, Abigail Nelly 
+* Huarcaya Maldonado, Jhonatan Albino
+* Jacobo Jara, José María
+* Jaime Alanya, Jesús Yimfranz
+* León Muñoz, Alicia Mercedes
 
 # iii. Objetivo del proyecto
 
-# iv. Estructura de las carpetas
+¿Quizás Objetivos principales y secundarios?
 
+# iv. Estructura de las carpetas (aquí podemos colocar los enlaces)
+1. [Elección del Problema](https://github.com/jomjac/PECD_03/blob/main/1.%20Elecci%C3%B3n%20del%20Problema.md "1. Elección del Problema.md")
+2. [Análisis del Problema](https://github.com/jomjac/PECD_03/blob/main/2.%20An%C3%A1lisis%20del%20Problema.md "2. Análisis del Problema.md")
+3. [Análisis del Problema](https://github.com/jomjac/PECD_03/blob/main/3.%20Propuesta%20del%20Caso%20de%20Negocio.md "3. Propuesta del Caso de Negocio.md")
 # v. Enlaces a los archivos Markdown con el desarrollo de la Parte 01.
