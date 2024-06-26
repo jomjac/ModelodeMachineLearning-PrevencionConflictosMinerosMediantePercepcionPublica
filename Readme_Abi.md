@@ -1,2 +1,2 @@
 Hola!
-<span style="color:blue"> some blue text </span>
+<code style="color:blue"> some blue text </code>
