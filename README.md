@@ -18,6 +18,12 @@
 📖 Contar una historia o un suceso de una minera.
 <span style="color:red">ASDAS</span>
 
+Enfocado en el proceso de la mina. 
+
+Supuestos: 
+- Empresas grandes
+- 
+
 <span style="color:blue">blue</span>
 
 ---
