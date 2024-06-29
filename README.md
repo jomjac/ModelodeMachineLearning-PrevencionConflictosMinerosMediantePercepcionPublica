@@ -1,19 +1,3 @@
-# PECD_03
-## 🌟 Especialización
-### Prueba 1
-
-> **Ejemplo**
-
-### 1. Problemáticas
-- **🌍 Cambio climático:** Uso de imágenes satelitales para análisis de la variación y derretimiento de glaciares, pronosticando cuánto será el aumento de caudal en los ríos colindantes en unos años o en cuánto tiempo ya no existirán glaciares.
-- **💧 Control de inundaciones:** Implementación de sensores de flujos de ríos y análisis de datos históricos para predecir y controlar inundaciones.
-- **📄 Interpretación de expedientes médicos:** Extracción de datos relevantes (fechas, enfermedades) para optimizar la evaluación de expedientes y reducir costos operativos.
-- **🚢 Logística internacional:** La empresa enfrenta retrasos en la entrega de productos debido a problemas logísticos internacionales, lo que resulta en sanciones a los clientes y una disminución de su satisfacción. La competencia frecuentemente ofrece mejores condiciones y precios, llevándonos a perder proyectos importantes.
-- **⚠️ Riesgo de reputación de marca:** Algunas empresas enfrentan riesgos reputacionales debido a sus propias acciones o las de terceros, lo que puede generar pérdidas económicas a corto y largo plazo. Se propone generar un modelo predictivo de clasificación (actualmente se usa NPS) que cuantifique el sentimiento de los usuarios en las redes sociales, para proponer estrategias que mitiguen el impacto del riesgo.
-- **📉 Desfinanciamiento en educación:** Diversos pliegos presupuestarios enfrentan problemas de desfinanciamiento a fin de año para cumplir con el pago de la planilla de personal del sector educación, generando conflictos sociales que pueden interrumpir el servicio educativo. Esto puede deberse a programación incorrecta del presupuesto, demoras en transferencias de recursos, o incorrecta priorización y ejecución del presupuesto. **Solución:** Predecir qué Pliegos/UE entrarán en déficit para proponer estrategias que eviten el desfinanciamiento.
-
----
-
 ## i. Introducción al proyecto
 📖 Contar una historia o un suceso de una minera.
 <span style="color:red">ASDAS</span>
