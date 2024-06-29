@@ -17,7 +17,7 @@ Bajo este contexto, la implementación de aplicaciones de machine learning puede
 
 ## iii. Objetivo del proyecto
 🎯 **Objetivos Principales:**
-- [Especificar los objetivos principales del proyecto]
+- 
 
 🎯 **Objetivos Secundarios:**
 - [Especificar los objetivos secundarios del proyecto]
