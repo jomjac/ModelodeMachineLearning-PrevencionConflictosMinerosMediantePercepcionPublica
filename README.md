@@ -39,7 +39,3 @@ Supuestos:
 2. [📁 Análisis del Problema](https://github.com/jomjac/PECD_03/blob/main/2.%20Análisis%20del%20Problema.md "2. Análisis del Problema.md")
 3. [📁 Propuesta del Caso de Negocio](https://github.com/jomjac/PECD_03/blob/main/3.%20Propuesta%20del%20Caso%20de%20Negocio.md "3. Propuesta del Caso de Negocio.md")
 
----
-
-## v. Enlaces a los archivos Markdown con el desarrollo de la Parte 01
-- [Desarrollo de la Parte 01 - Documento Completo](https://github.com/jomjac/PECD_03/blob/main/Desarrollo%20Parte%2001.md "Desarrollo Parte 01.md")
