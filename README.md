@@ -1,5 +1,4 @@
 ## i. Introducción al proyecto
-📖 Contar una historia o un suceso de una minera.
 <span style="color:red">ASDAS</span>
 
 Las empresas mineras en Perú han enfrentado una variedad de desafíos y conflictos al intentar iniciar y mantener sus operaciones. Entre los conflictos más significativos se encuentran los sociales, motivados principalmente por preocupaciones sobre los impactos ambientales, alteración de recursos hídricos y también por desinformación. Un ejemplo destacado es la minera Antamina, cuya utilización de grandes volúmenes de agua superficial y subterránea ha generado temores, lo que ha resultado en protestas y alteraciones en las comunidades locales afectando su reputación. La oposición pública pueden generar una percepción negativa de la empresa tanto a nivel local como internacional amplificandose por los medios de comunicación y las redes sociales, lo que puede derivar a una disminución de la confianza en la empresa por parte de los stakeholders, inversores, gobiernos y las mismas comunidades, además de importantes perdidas económicas. 
