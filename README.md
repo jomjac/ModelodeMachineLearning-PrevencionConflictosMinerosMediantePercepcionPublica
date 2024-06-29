@@ -25,7 +25,7 @@ Bajo este contexto, la implementación de aplicaciones de machine learning puede
 - Identificar las principales demandas de los stakeholders respecto a las operaciones mineras.
 ---
 
-## iv. Estructura de las carpetas (aquí podemos colocar los enlaces)
+## iv. Estructura de las carpetas
 1. [📁 Elección del Problema](https://github.com/jomjac/PECD_03/blob/main/1.%20Elección%20del%20Problema.md "1. Elección del Problema.md")
 2. [📁 Análisis del Problema](https://github.com/jomjac/PECD_03/blob/main/2.%20Análisis%20del%20Problema.md "2. Análisis del Problema.md")
 3. [📁 Propuesta del Caso de Negocio](https://github.com/jomjac/PECD_03/blob/main/3.%20Propuesta%20del%20Caso%20de%20Negocio.md "3. Propuesta del Caso de Negocio.md")
