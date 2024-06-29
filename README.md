@@ -17,11 +17,12 @@ Bajo este contexto, la implementación de aplicaciones de machine learning puede
 
 ## iii. Objetivo del proyecto
 🎯 **Objetivos Principales:**
-- 
+- Detectar tendencias y la polarización en la opinión pública dentro de redes sociales y otras fuentes de informacion disponibles, orientados a clasificar la percepción pública hacia una empresa minera.
 
 🎯 **Objetivos Secundarios:**
-- [Especificar los objetivos secundarios del proyecto]
-
+- Implementar estrategias para anticipar los conflictos mineros y fortalecer sus relaciones con los grupos de interés y stakeholders clave.
+- Mitigar el impacto económico de potenciales conflictos mineros.
+- Identificar las principales demandas de los stakeholders respecto a las operaciones mineras.
 ---
 
 ## iv. Estructura de las carpetas (aquí podemos colocar los enlaces)
