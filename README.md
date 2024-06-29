@@ -9,7 +9,7 @@ En este contexto, la implementación de aplicaciones de machine learning puede o
  
 
 Supuestos: 
-- Empresas Antamina.
+- Empresa Antamina.
 
 
 <span style="color:blue">blue</span>
