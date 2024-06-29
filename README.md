@@ -6,14 +6,11 @@ Las empresas mineras en Perú han enfrentado una variedad de desafíos y conflic
 
 En este contexto, la implementación de aplicaciones de machine learning puede ofrecer una solución innovadora para mitigar y controlar estos conflictos, ya que la funcionalidad de estos modelos repercute en el análisis de grandes volúmenes de datos ya sean sociales y ambientales que identifiquen patrones y tendencias que permitan una respuesta proactiva a los problemas emergentes, mejorando así la percepción pública, fomentando relaciones más armoniosas y productivas.
 
-
-
-
-Enfocado en el proceso de la mina. 
+ 
 
 Supuestos: 
-- Empresas grandes
-- 
+- Empresas Antamina.
+
 
 <span style="color:blue">blue</span>
 
